@@ -29,7 +29,7 @@ class|`__doc__`
 >>> obj.prop
 "value"
 
-obj.prop = "new"
+>>> obj.prop = "new"
 >>> obj.prop
 "new"
 ```
