@@ -1,8 +1,6 @@
-#!/usr/bin/env python
-import public
+__all__ = ['writable_property']
 
 
-@public.add
 class writable_property(property):
     """writable property class"""
 
